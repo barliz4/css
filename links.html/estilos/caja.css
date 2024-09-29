@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  background-color: rgb(41, 140, 227);
+}
+.box {
+  background-color: rgb(124, 239, 85);
+  width: 300px;
+  height: 150px;
+  /* display; block; */
+  margin-top: 50px;
+  margin-bottom: 70px;
+}
+p{
+  display: block;
+  width: 300px;
+  height: 150px;
+}
+
